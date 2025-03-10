@@ -2,6 +2,8 @@
 
 ## 1. Initialize a Git Repository
 # To start using Git, initialize a repository in the current directory:
+```bash
+git init
 git init  # Initializes a new Git repository
 
 # This command creates a new Git repository in the current directory.
